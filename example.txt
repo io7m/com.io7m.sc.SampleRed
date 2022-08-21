@@ -1,0 +1,3 @@
+60;sample_bd.wav
+61;sample_snare.wav
+62;sample_hat.wav

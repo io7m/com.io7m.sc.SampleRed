@@ -1,0 +1,11 @@
+(
+  summary:   "Sampler: Red",
+  version:   "1.0.0",
+  license:   "ISC",
+  copyright: "Mark Raynsford 2022",
+
+  dependencies: [
+    "com.io7m.sc.TypeChecking@1.0.0",
+    "com.io7m.sc.Assert@1.0.0"
+  ],
+)
